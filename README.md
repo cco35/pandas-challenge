@@ -1,7 +1,3 @@
-Certainly! Here's an improved version of the text, addressing spelling and grammar errors, improving clarity, and enhancing readability:
-
----
-
 This repository contains my submission for Assignment 4 in the Columbia Data Analytics Bootcamp. The assignment required us to conduct an analysis on two datasets using Pandas and Jupyter Notebooks.
 
 I imported school and student data from two separate CSV files into Jupyter and merged them. Pandas was then employed to create DataFrames for the analysis. The student data provides information about students, their respective high schools, and their performance in reading and math tests. The school data includes a list of schools in a district, their types, budgets, and student populations.

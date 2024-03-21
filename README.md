@@ -50,8 +50,6 @@ The tools utilized in this project include:
 - Python: Programming language used for data analysis and manipulation.
 - Pandas Library: Used for data manipulation, cleaning, and analysis.
 - Jupyter Notebook: Interactive environment for running Python code and analyzing data.
-- Matplotlib: Library for data visualization and plotting.
-- NumPy: Library for numerical computations and array operations.
 
 ## Conclusion
 The pandas-challenge project aims to provide comprehensive insights into school performance metrics, enabling stakeholders to make data-driven decisions for improving educational outcomes and resource allocation within the city's school district.

@@ -1,4 +1,6 @@
-# Project Overview
+# Decoding Education Metrics: PyCitySchools Data Exploration
+
+## Project Overview
 This project is a comprehensive analysis of district-wide standardized test results for a city's school district. The primary objective is to provide actionable insights into school performance metrics. These insights will assist the school board and mayor in making informed decisions regarding future school budgets, resource allocation, and strategic priorities.
 
 The analysis covers a wide range of key metrics, including average math and reading scores, passing rates in math and reading, overall passing rates, budget analysis per school, school size analysis, and comparisons of performance based on spending per student. By conducting this analysis, we aim to identify trends, patterns, and areas for improvement within the school district.
